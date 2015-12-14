@@ -19,6 +19,7 @@
 		0464926E1C0C4510002D7234 /* JJCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0464926C1C0C4510002D7234 /* JJCollectionViewController.m */; };
 		0464926F1C0C4510002D7234 /* JJCollectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0464926D1C0C4510002D7234 /* JJCollectionViewController.xib */; };
 		046492711C0C4CF7002D7234 /* qq.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 046492701C0C4CF7002D7234 /* qq.jpg */; };
+		046808AB1C1EC3E200423C16 /* q.gif in Resources */ = {isa = PBXBuildFile; fileRef = 046808AA1C1EC3E200423C16 /* q.gif */; };
 		04BD1BB61C0C885600682714 /* JJCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04BD1BB41C0C885600682714 /* JJCollectionViewCell.m */; };
 		04BD1BB71C0C885600682714 /* JJCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04BD1BB51C0C885600682714 /* JJCollectionViewCell.xib */; };
 		04E7F0461C0EB46A00DB1059 /* JJSnapshoImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E7F0451C0EB46A00DB1059 /* JJSnapshoImageView.m */; };
@@ -63,6 +64,7 @@
 		0464926C1C0C4510002D7234 /* JJCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJCollectionViewController.m; sourceTree = "<group>"; };
 		0464926D1C0C4510002D7234 /* JJCollectionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JJCollectionViewController.xib; sourceTree = "<group>"; };
 		046492701C0C4CF7002D7234 /* qq.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qq.jpg; sourceTree = "<group>"; };
+		046808AA1C1EC3E200423C16 /* q.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = q.gif; sourceTree = "<group>"; };
 		04BD1BB31C0C885500682714 /* JJCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JJCollectionViewCell.h; sourceTree = "<group>"; };
 		04BD1BB41C0C885600682714 /* JJCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JJCollectionViewCell.m; sourceTree = "<group>"; };
 		04BD1BB51C0C885600682714 /* JJCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JJCollectionViewCell.xib; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 		046492291C0C44F6002D7234 = {
 			isa = PBXGroup;
 			children = (
+				046808AA1C1EC3E200423C16 /* q.gif */,
 				046492341C0C44F6002D7234 /* JJCollectionView */,
 				046492511C0C44F7002D7234 /* JJCollectionViewTests */,
 				0464925C1C0C44F7002D7234 /* JJCollectionViewUITests */,
@@ -270,6 +273,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				046808AB1C1EC3E200423C16 /* q.gif in Resources */,
 				046492711C0C4CF7002D7234 /* qq.jpg in Resources */,
 				046492481C0C44F6002D7234 /* LaunchScreen.storyboard in Resources */,
 				046492451C0C44F6002D7234 /* Assets.xcassets in Resources */,
