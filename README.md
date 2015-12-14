@@ -2,5 +2,4 @@
 JJCollectionView
 动态的瀑布流
 
-![image](https://github.com/microcosmicDjj/JJCollectionView/blob/master/q.gif)   
-![shili](https://github.com/microcosmicDjj/JJCollectionView/blob/master/q.gif)
+![image](https://github.com/microcosmicDjj/JJCollectionView/blob/master/q.gif)
